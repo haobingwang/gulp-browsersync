@@ -1,0 +1,27 @@
+{
+  "name": "m.zdeal.com.cn",
+  "version": "1.0.0",
+  "description": "zdeal 移动端h5 页面",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://zgitlab.zerone.com.cn/z_platform/m.zdeal.com.cn.git"
+  },
+  "author": "haobing.wang",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.10.2",
+    "@babel/preset-env": "^7.10.2",
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-filter": "^6.0.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-uglify": "^3.0.2",
+    "node-sass": "^4.14.1"
+  }
+}
